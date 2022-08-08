@@ -1,2 +1,4 @@
 # IIRS-ISRO-Project
-Project intern as an IoT solutions Architect.
+Data application for accurate estimation of mineral
+present in soil.
+[IoT architecture]
